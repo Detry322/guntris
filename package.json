@@ -1,0 +1,33 @@
+{
+  "name": "guntris",
+  "version": "0.0.0",
+  "description": "Tetris, with guns.",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Detry322/guntris.git"
+  },
+  "keywords": [
+    "tetris",
+    "game",
+    "html5",
+    "web"
+  ],
+  "author": "Jack Serrino",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Detry322/guntris/issues"
+  },
+  "homepage": "https://github.com/Detry322/guntris#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "matter-js": "^0.14.2",
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
