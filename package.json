@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/Detry322/guntris#readme",
   "dependencies": {
-    "html-webpack-plugin": "^4.3.0",
+    "html-webpack-plugin": "^5.5.0",
     "matter-js": "^0.14.2",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^5.0.1"
   }
 }
